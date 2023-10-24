@@ -1,5 +1,5 @@
 {
-    "dl": "https://anthonyslab.org/crates/api/v1/crates/{crate}/{version}/download",
-    "api": "https://anthonyslab.org/crates",
+    "dl": "https://crates.anthonyslab.org/api/v1/crates/{crate}/{version}/download",
+    "api": "https://crates.anthonyslab.org",
     "allowed-registries": ["https://github.com/anthonysSlab/crate-index"]
 }
